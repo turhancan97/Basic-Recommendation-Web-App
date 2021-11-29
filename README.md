@@ -25,10 +25,14 @@ On the website you can mark any ingredient you want and it will recommend you an
 2. run *notebook.ipynb*
 
 3. Open a command prompt in the folder where your index.html file resides. Ensure that you have  [http-server](https://www.npmjs.com/package/http-server)  installed globally, and type  `http-server`  at the prompt. You wil see someting like the figure below.
+
+
 ![image](https://user-images.githubusercontent.com/22428774/143952841-0ecebd79-27c1-4af0-8af2-2ea846b12003.png)
 
-3. Open any available localhost and you can view the web app. Check what cuisine is recommended based on various ingredients:
+4. Open any available localhost and you can view the web app. Check what cuisine is recommended based on various ingredients:
+
 ![ex2](https://user-images.githubusercontent.com/22428774/143953105-cdef07f2-1a08-4d4f-a896-f06f8f45d005.PNG)
 
-4. When you choose one or more ingredients, it will recommend you an asian cuisine.
+5. When you choose one or more ingredients, it will recommend you an asian cuisine.
+
 ![ex1](https://user-images.githubusercontent.com/22428774/143953319-1566bfbf-a45f-4c3e-a962-51bf8eceda9c.PNG)
